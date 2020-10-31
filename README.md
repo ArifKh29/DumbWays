@@ -8,6 +8,7 @@ Alat & Bahan
 
 Tugas 1 Mengurutkan Kata,
 Tugas 2 Membuar Bendera ,
+Tugas 3 Mencari Karakter ,
 Tugas 4 Crud
 
 Detail Tugas 4
