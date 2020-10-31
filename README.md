@@ -6,8 +6,8 @@ Alat & Bahan
 3) Database (MySQL)
 4) Web Server (Apache)
 
-Tugas 1 Mengurutkan Kata
-Tugas 2 Membuar Bendera 
+Tugas 1 Mengurutkan Kata,
+Tugas 2 Membuar Bendera ,
 Tugas 4 Crud
 
 Detail Tugas 4
